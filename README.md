@@ -1,4 +1,4 @@
-#RUNHACK
+#Asia Open Data Hackathon
 2017年8月5-6日に、「Asia Open Data Hackathon」というイベントを開催いたします。
 
 [特設サイト](http://odhack.asia/)
