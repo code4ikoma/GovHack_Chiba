@@ -14,6 +14,9 @@
 また、以下は本ハッカソンにおける、国際的な規定となりますので、ご確認ください。
 
 ・Choose one theme and create one workable application that MUST use government open data from your country and mix with other data.
+
 ・The participants have to make their work (including document, code, data…etc.) open source by following the rules set by OSI (http://opensource.org/licenses), and upload for records.
+
 ・3 Taiwanese referees, 3 Thai referees, 3 Japanese referees and 3 Korean referees to select 8 winning teams (2 for each) from 5 Taiwanese Teams, 5 Thai Teams, 5 Japanese Teams and 5 Korean Teams. (Each team has 5 mins for English presentation and demo)
+
 ・Competitors are not permitted to submit the work that has been awarded any prize in any country.
