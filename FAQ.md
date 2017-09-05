@@ -1,4 +1,4 @@
-# Asia Open Data Hackathon(以下、本イベント)参加同意書に関するFAQ
+# GovHack 神戸市(以下、本イベント)参加同意書に関するFAQ
 
 ---
 
