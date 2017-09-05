@@ -1,4 +1,4 @@
-#GovHack神戸市
+# GovHack神戸市
 2017年９月15-16日に、「GovHack 神戸市」というイベントを開催いたします。
 
 [募集サイト](https://hackcamp.doorkeeper.jp/events/64469)
