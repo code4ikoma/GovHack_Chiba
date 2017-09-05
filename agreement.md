@@ -51,7 +51,7 @@ KIITO：デザイン・クリエイティブセンター神戸
 
 【住所】 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-※成果物、アイデアの違いや権利の取り決めの考え方については、本イベントの[FAQ](https://github.com/HackCamp/GovHack/FAQ.md)　も合わせてご確認ください。
+※成果物、アイデアの違いや権利の取り決めの考え方については、本イベントの[FAQ](https://github.com/HackCamp/GovHack/blob/master/FAQ.md)　も合わせてご確認ください。
 
 
 
